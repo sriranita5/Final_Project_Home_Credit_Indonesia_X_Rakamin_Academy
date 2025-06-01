@@ -22,7 +22,6 @@ Each row represents a single loan application, with over 300K observations and 1
 - Handle missing values
 - Feature selection
 - Encode categorical variables (LabelEncoder)
-- Outlier removal using Z-score
 2. Feature Scaling
 - Standardization using StandardScaler
 3. Class Imbalance Handling
